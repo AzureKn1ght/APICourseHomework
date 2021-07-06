@@ -1,0 +1,5 @@
+One of the problems many drivers face today, is the lack of parking lots. More accurately, the frustration arises when reaching a carpark and finding out that it is full. This either leads to long waiting times or having to drive around the vecinity to find alternative parking spots. 
+
+A possible way to circumvent this issue, is to expose parking lot data at malls, buildings, and other estates to be available for use by app developers. While there seem to have been some pilot efforts on government owned carparks, it is certainly not widespread yet. 
+
+App developers can make use of these APIs to help drivers set alerts for when the carpark is full, or perhaps even forcast a prediction based on historical data. Even knowing a carpark is full before arriving would certainly save the driver some hassle. It is definitely an area worth exploring. 
